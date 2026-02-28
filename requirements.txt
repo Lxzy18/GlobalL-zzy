@@ -1,2 +1,2 @@
-aiogram==3.3.0
-python-dotenv
+pyTelegramBotAPI==4.15.4
+requests==2.31.0
